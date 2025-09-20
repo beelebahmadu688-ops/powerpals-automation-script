@@ -1,0 +1,14 @@
+{
+"name": "powerpals-automation",
+"version": "1.0.0",
+"description": "A Node.js script for PowerPals automation.",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"chalk": "^4.1.2",
+"express": "^4.19.2",
+"node-fetch": "^2.6.7"
+}
+}
